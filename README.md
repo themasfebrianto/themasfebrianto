@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Themas Febrianto</h1>
 <h3 align="center">A passionate Web developer from Indonesia</h3>
 
+<p>saya guru di salah satu SMK swasta di kabupaten bandung, saat ini mencari perusahaan untuk berkerja khususnya di bidang software development saya sangat tertarik di pengembangan website dan Backend</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themasfebrianto&label=Profile%20views&color=0e75b6&style=flat" alt="themasfebrianto" /> </p>
 
 - 🔭 I’m currently working on [Point Of Sale Laravel Project](https://github.com/themasfebrianto/Laravel-Jetstram-kasir.git)
