@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themasfebrianto&label=Profile%20views&color=0e75b6&style=flat" alt="themasfebrianto" /> </p>
 
-- 🔭 I’m currently working on [Point Of Sale Laravel Project](https://github.com/themasfebrianto/Laravel-Jetstram-kasir.git)
 
 - 👨‍💻 All of my projects are available at [themasfebrianto.github.io](themasfebrianto.github.io)
 
